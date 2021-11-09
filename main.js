@@ -4,6 +4,9 @@ leftWristX = "";
 rightWristX = "";
 leftWristY = "";
 rightWristY = "";
+scoreLeftWrist = 0;
+scoreRightWrist = 0;
+songStatus = "" ;
 
 
 function setup() {
